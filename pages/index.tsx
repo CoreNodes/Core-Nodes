@@ -243,7 +243,7 @@ const Home: NextPage = () => {
       </Head>
       <NavBar />
       <div className="mt-24 relative h-12">
-        <Image src="/core-logo-final-version.png" layout="fill" objectFit="contain" />
+        <Image src="/core-logo-final-version.png" alt="Core Nodes claim rewards" layout="fill" objectFit="contain" />
       </div>
       <div className="text-center mt-6">
         <h1 className="font-bold text-4xl uppercase">
